@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Florencia</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Beyond School](https://github.com/Lisperguer/Beyond_Schoo)
-
 - 🌱 I’m currently learning **API's, Javascript, Docker**
 
 - 👯 I’m looking to collaborate on **any project assigned.**
 
 - 📫 How to reach me **flor.lema222@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFCRT9f_jI/0MXki7l9TpGLgKLNA0GNqA/view?utm_content=DAFCRT9f_jI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFCRT9f_jI/0MXki7l9TpGLgKLNA0GNqA/view?utm_content=DAFCRT9f_jI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/18SyjdkiQORG_QXW80Rmuqr6R5Ff2zE1p/view)
 
 - ⚡ Fun fact **I love learning by fixing broken things, not just tech, anything that's broken and there's a youtube tutorial available :)**
 
