@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **flor.lema222@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/18SyjdkiQORG_QXW80Rmuqr6R5Ff2zE1p/view)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1lQmNGiGdGsUoEC3Q46B5949zaLm2H1lX/view?usp=sharing)
 
 - ⚡ Fun fact **I love learning by fixing broken things, not just tech, anything that's broken and there's a youtube tutorial available :)**
 
